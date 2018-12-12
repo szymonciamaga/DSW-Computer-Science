@@ -77,7 +77,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "\nPerson" +
+        return "\nEmployee" +
                 "\nName: " + firstName +
                 "\nFamily name: " + lastName +
                 "\nAge: " + age +
